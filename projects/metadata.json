@@ -1,0 +1,9 @@
+[
+  {
+    "id": 1,
+    "title": "Mobile Application",
+    "description": "Developed a mobile application for a private school in Kütahya. The application is developed with React Native and Expo.",
+    "tags": ["React Native", "Expo", "Mobile Development"],
+    "githubUrl": "https://raw.githubusercontent.com/izzetkalic/kalic.dev.public/refs/heads/main/projects/2019.Sep_limit-okullari.md"
+  }
+]
