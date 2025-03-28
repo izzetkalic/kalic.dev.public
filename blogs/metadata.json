@@ -1,9 +1,16 @@
 [
   {
     "id": 1,
+    "title": "Managing Parameters in NiFi: HashiCorp Vault",
+    "excerpt": "The article explains how to securely manage and integrate sensitive parameters in Apache NiFi using HashiCorp Vault as a centralized secrets management solution.",
+    "date": "Sep 22, 2023",
+    "githubUrl": "https://raw.githubusercontent.com/izzetkalic/kalic.dev.public/refs/heads/main/blogs/2024.May_nifi-vault-integration.md"
+  },
+  {
+    "id": 2,
     "title": "Decoding i18n Challenges in Spring Boot 3: Exploring Internationalization",
     "excerpt": "In this blog post, we will explore the internationalization (i18n) support in Spring Boot and how to configure it.",
     "date": "Sep 22, 2023",
-    "githubUrl": "https://raw.githubusercontent.com/izzetkalic/kalic.dev.public/refs/heads/main/blogs/2024.Sep_i18n-configuration-spring.md"
+    "githubUrl": "https://raw.githubusercontent.com/izzetkalic/kalic.dev.public/refs/heads/main/blogs/2023.Sep_i18n-configuration-spring.md"
   }
 ]
